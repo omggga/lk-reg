@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3vz5DbRyXIVcR/WV3iYWQn0Ffxgq2kkv1D6I4HdbDp8=",
+  "Hash": "as0uyeOqS0v0KrgqlUq4YaJ0KZluYXePJuEgymFARBQ=",
   "Source": "lk-reg",
   "BasePath": "_content/lk-reg",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/obj/Debug/net7.0/scopedcss/projectbundle/lk-reg.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/.DS_Store",
+      "SourceId": "lk-reg",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/",
+      "BasePath": "_content/lk-reg",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
     },
     {
       "Identity": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/css/site.css",
@@ -1069,6 +1086,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/pika.png",
+      "SourceId": "lk-reg",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/",
+      "BasePath": "_content/lk-reg",
+      "RelativePath": "pika.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/pika.png"
     }
   ]
 }

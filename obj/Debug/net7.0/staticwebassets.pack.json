@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/lk-reg.bundle.scp.css"
     },
     {
+      "Id": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
@@ -243,6 +247,10 @@
     {
       "Id": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/lib/jquery/dist/jquery.min.map",
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/pika.png",
+      "PackagePath": "staticwebassets/pika.png"
     },
     {
       "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.lk-reg.props",
