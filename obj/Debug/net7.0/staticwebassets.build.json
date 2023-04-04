@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "as0uyeOqS0v0KrgqlUq4YaJ0KZluYXePJuEgymFARBQ=",
+  "Hash": "ucJO7aOMg3qhuTLAHwmwgPHk0ccHwuO/tUKEGxjGE7s=",
   "Source": "lk-reg",
   "BasePath": "_content/lk-reg",
   "Mode": "Default",
@@ -1086,6 +1086,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/lk_reg.styles.css",
+      "SourceId": "lk-reg",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/",
+      "BasePath": "_content/lk-reg",
+      "RelativePath": "lk_reg.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lk_reg.styles.css"
     },
     {
       "Identity": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/pika.png",

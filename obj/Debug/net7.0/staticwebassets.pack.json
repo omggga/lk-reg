@@ -249,6 +249,10 @@
       "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
     },
     {
+      "Id": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/lk_reg.styles.css",
+      "PackagePath": "staticwebassets/lk_reg.styles.css"
+    },
+    {
       "Id": "/Users/aleksandrmuraskin/FRSD/Projects/ui/lk-reg/wwwroot/pika.png",
       "PackagePath": "staticwebassets/pika.png"
     },
